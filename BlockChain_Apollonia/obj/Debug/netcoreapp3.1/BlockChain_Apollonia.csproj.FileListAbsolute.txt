@@ -1,0 +1,13 @@
+C:\Users\Swifty\source\repos\BlockChain_Apollonia\BlockChain_Apollonia\bin\Debug\netcoreapp3.1\BlockChain_Apollonia.exe
+C:\Users\Swifty\source\repos\BlockChain_Apollonia\BlockChain_Apollonia\bin\Debug\netcoreapp3.1\BlockChain_Apollonia.deps.json
+C:\Users\Swifty\source\repos\BlockChain_Apollonia\BlockChain_Apollonia\bin\Debug\netcoreapp3.1\BlockChain_Apollonia.runtimeconfig.json
+C:\Users\Swifty\source\repos\BlockChain_Apollonia\BlockChain_Apollonia\bin\Debug\netcoreapp3.1\BlockChain_Apollonia.runtimeconfig.dev.json
+C:\Users\Swifty\source\repos\BlockChain_Apollonia\BlockChain_Apollonia\bin\Debug\netcoreapp3.1\BlockChain_Apollonia.dll
+C:\Users\Swifty\source\repos\BlockChain_Apollonia\BlockChain_Apollonia\bin\Debug\netcoreapp3.1\BlockChain_Apollonia.pdb
+C:\Users\Swifty\source\repos\BlockChain_Apollonia\BlockChain_Apollonia\obj\Debug\netcoreapp3.1\BlockChain_Apollonia.csprojAssemblyReference.cache
+C:\Users\Swifty\source\repos\BlockChain_Apollonia\BlockChain_Apollonia\obj\Debug\netcoreapp3.1\BlockChain_Apollonia.csproj.CoreCompileInputs.cache
+C:\Users\Swifty\source\repos\BlockChain_Apollonia\BlockChain_Apollonia\obj\Debug\netcoreapp3.1\BlockChain_Apollonia.AssemblyInfoInputs.cache
+C:\Users\Swifty\source\repos\BlockChain_Apollonia\BlockChain_Apollonia\obj\Debug\netcoreapp3.1\BlockChain_Apollonia.AssemblyInfo.cs
+C:\Users\Swifty\source\repos\BlockChain_Apollonia\BlockChain_Apollonia\obj\Debug\netcoreapp3.1\BlockChain_Apollonia.dll
+C:\Users\Swifty\source\repos\BlockChain_Apollonia\BlockChain_Apollonia\obj\Debug\netcoreapp3.1\BlockChain_Apollonia.pdb
+C:\Users\Swifty\source\repos\BlockChain_Apollonia\BlockChain_Apollonia\obj\Debug\netcoreapp3.1\BlockChain_Apollonia.genruntimeconfig.cache
